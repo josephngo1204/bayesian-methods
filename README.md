@@ -1,5 +1,5 @@
 # Bayesian Methods
-#### My work/assignments with bayesian problems include: 
+#### My work/assignments with bayesian problems from MENG 25620 - Applied Artificial Intelligence for Materials Science and Engineering include: 
 
 - defining prior distributions and likelihood functions
 - computing posterior probabilities of each model (log-likelihoods for efficient computing)
